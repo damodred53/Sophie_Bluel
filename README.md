@@ -17,4 +17,4 @@
   <li>Récupérer les données utilisateurs dans le JavaScript via des formulaires</li>
 </ol>
 
-
+nb : le code pour se connecter comme utilisateur se trouve dnas le readme du back
